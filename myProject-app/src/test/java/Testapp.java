@@ -5,7 +5,7 @@ public class Testapp {
 	@Test
 	
 	public void testrien() {
-		System.out.println("modif local");
+		System.out.println("modif local + github");
 	}
 
 }
